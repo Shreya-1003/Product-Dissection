@@ -1,4 +1,4 @@
-#Product Dissection and Real-World Problems Solved by WhatsApp :
+# Product Dissection and Real-World Problems Solved by WhatsApp :
 
 Product dissection involves taking apart a product to understand how it works, its components, and how they contribute to its overall functionality. WhatsApp is a messaging application that primarily serves as a platform for text and multimedia messaging, voice and video calls, and group communication. While it may not be as complex as physical products, we can still analyze it and discuss real-world problems it solves:
 
